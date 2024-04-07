@@ -1,11 +1,18 @@
 1: Introduction
 1.1	Purpose: 
-The purpose of the Online Travel Booking System is to provide a comprehensive platform for users to conveniently search, compare, and book travel arrangements, including flights, hotels, and car rentals. This system aims to streamline the travel booking process, making it more efficient and user-friendly.
+The purpose of the Online Travel Booking System is to provide a comprehensive platform for users to 
+conveniently search, compare, and book travel arrangements, including flights, hotels, and car rentals. 
+This system aims to streamline the travel booking process, making it more efficient and user-friendly.
+
 1.2	Scope: 
-The Online Travel Booking System will cover various modules, including User Management, Travel Search and Booking, Payment Processing, Booking Management, and Notifications.
+The Online Travel Booking System will cover various modules, including User Management, Travel Search and 
+Booking, Payment Processing, Booking Management, and Notifications.
     
 
 2.1	System Objectives: 
-The system aims to provide a user-friendly interface for customers to search, compare, and book travel arrangements. It also provides management tools for administrators to manage listings and bookings. The system is designed to be robust, secure, and scalable, capable of handling a large number of concurrent users and transactions.
+The system aims to provide a user-friendly interface for customers to search, compare, and book travel arrangements. 
+It also provides management tools for administrators to manage listings and bookings. The system is designed to be 
+robust, secure, and scalable, capable of handling a large number of concurrent users and transactions.
 2.2	System Users: 
-The system will have different types of users, including Customers, Travel Service Providers, and System Administrators. Each user type will have different access levels and functionalities within the system.
+The system will have different types of users, including Customers, Travel Service Providers, and System 
+Administrators. Each user type will have different access levels and functionalities within the system.
