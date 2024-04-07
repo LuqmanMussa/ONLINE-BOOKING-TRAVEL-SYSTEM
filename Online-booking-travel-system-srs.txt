@@ -1,8 +1,8 @@
-                                  SOFTWARE REQUIREMENTS SPECIFICATION.
+                            SOFTWARE REQUIREMENTS SPECIFICATION.
     
-                                     ONLINE BOOKING TRAVEL SYSTEM.
+                                ONLINE BOOKING TRAVEL SYSTEM.
     
-                                            APRIL, 2024.
+                                      APRIL, 2024.
 
 1: Introduction.
 1.1	Purpose: 
