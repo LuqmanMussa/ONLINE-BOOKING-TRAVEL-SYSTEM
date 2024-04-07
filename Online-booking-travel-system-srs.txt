@@ -1,10 +1,10 @@
-                                  SOFTWARE REQUIREMENTS SPECIFICATION
+                                  SOFTWARE REQUIREMENTS SPECIFICATION.
     
-                                     ONLINE BOOKING TRAVEL SYSTEM
+                                     ONLINE BOOKING TRAVEL SYSTEM.
     
-                                            APRIL, 2024
+                                            APRIL, 2024.
 
-1: Introduction
+1: Introduction.
 1.1	Purpose: 
 The purpose of the Online Travel Booking System is to provide a comprehensive platform for users to 
 conveniently search, compare, and book travel arrangements, including flights, hotels, and car rentals. 
