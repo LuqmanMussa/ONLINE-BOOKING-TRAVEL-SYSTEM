@@ -30,10 +30,10 @@ The system should allow users to register, login, and manage their profiles. It 
 3.2	Travel Search and Booking: 
 The system should provide a comprehensive search features that allows users to search for flights, hotels, and car rentals based on various parameters like location, date, price, etc. Users should be able to view detailed information about each listing and make bookings.
 
-3.4	Booking Management: 
+3.3	Booking Management: 
 The system should allow users to make booking travel tickets, view, modify, and cancel their bookings. It should provide features for users to print or email their booking details.
 
-3.3	Payment Processing: 
+3.4	Payment Processing: 
 The system should integrate with a secure payment gateway for processing payments. It should support various payment methods like credit/debit cards, net banking, and digital wallets.
 
 3.5	Notifications: 
