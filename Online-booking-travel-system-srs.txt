@@ -22,3 +22,35 @@ robust, secure, and scalable, capable of handling a large number of concurrent u
 2.2	System Users: 
 The system will have different types of users, including Customers, Travel Service Providers, and System 
 Administrators. Each user type will have different access levels and functionalities within the system.
+
+3.	Functional Requirements
+3.1	User Management: 
+The system should allow users to register, login, and manage their profiles. It should also provide features for password recovery and account deactivation.
+
+3.2	Travel Search and Booking: 
+The system should provide a comprehensive search features that allows users to search for flights, hotels, and car rentals based on various parameters like location, date, price, etc. Users should be able to view detailed information about each listing and make bookings.
+
+3.4	Booking Management: 
+The system should allow users to make booking travel tickets, view, modify, and cancel their bookings. It should provide features for users to print or email their booking details.
+
+3.3	Payment Processing: 
+The system should integrate with a secure payment gateway for processing payments. It should support various payment methods like credit/debit cards, net banking, and digital wallets.
+
+3.5	Notifications: 
+The system should send notifications to users regarding their bookings. Notifications can be sent via email or SMS.
+4.	Non-Functional Requirements
+
+4.1	Performance: 
+The system should be capable of handling a large number of concurrent users and transactions without any performance degradation. Response times for all operations should be within acceptable limits.
+
+4.2	Security: 
+The system should ensure the security of user data and payment information. It should implement strong encryption algorithms for data transmission and storage. It should also provide features for user authentication and authorization.
+
+4.3	Usability: 
+The system should have an intuitive and user-friendly interface. It should be easy to navigate and perform operations. It should also be accessible on various devices like desktops, laptops, tablets, and smartphones.
+
+
+8. Appendix
+•	Use Case Diagram: Diagram illustrating the interactions between system actors (users) and the Online Booking Travel System
+• Entity-Relationship  Diagram  (ERD):  Diagram  depicting  the  relationships between various entities (e.g., customer, 
+  Administrator , booking services, Payments) in the system database.
