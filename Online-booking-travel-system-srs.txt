@@ -49,3 +49,13 @@ The system should ensure the security of user data and payment information. It s
 4.3	Usability: 
 The system should have an intuitive and user-friendly interface. It should be easy to navigate and perform operations. It should also be accessible on various devices like desktops, laptops, tablets, and smartphones.
 
+7.    Glossary
+•	Customer: An individual to register, login, and manage their profiles.
+•	Manager: responsible for adding and allow users to view, modify, and cancel their bookings. It should provide features for users to print or email their booking details.
+•	Administrator: Should configuring and maintaining the Online Booking Travel System.
+•	Payment Controller System: system responsible make transaction online. 
+
+8. Appendix
+•	Use Case Diagram: Diagram illustrating the interactions between system actors (users) and the Online Booking Travel System
+• Entity-Relationship  Diagram  (ERD):  Diagram  depicting  the  relationships between various entities (e.g., customer, 
+  Administrator , booking services, Payments) in the system database.
