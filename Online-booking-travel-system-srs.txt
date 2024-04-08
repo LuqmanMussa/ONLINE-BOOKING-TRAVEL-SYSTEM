@@ -49,37 +49,3 @@ The system should ensure the security of user data and payment information. It s
 4.3	Usability: 
 The system should have an intuitive and user-friendly interface. It should be easy to navigate and perform operations. It should also be accessible on various devices like desktops, laptops, tablets, and smartphones.
 
-5.	User Interfaces
-The system will have a web-based interface that is accessible via standard web browsers. The interface will be responsive, ensuring a consistent user experience across various devices.
-5.1	Data Requirements
-The system will store user profiles, booking details, and listing information in a secure database. The database design will ensure data integrity, consistency, and reliability.
-5.2	Assumptions and Dependencies
-The system assumes reliable internet connectivity for users and administrators. It also assumes that all travel service providers provide accurate and up-to-date information about their services.
-
-5.3     Application Infrastructure and Technology requirements
-•	Web based publishing platforms
-The application is the web-based platform interface.
-•	Programming Language use
-Application languages: Java scripts; and Framework used to build the systems
-•	Database Servers
-The system requires a database to store the information of customers 
-Hardware platform:
-• Multiple servers with load balancers to handle high traﬃc and ensure high availability
-• At least 32GB of RAM and 4 CPU cores per server to support heavy data processing and indexing.
-• Storage Specifications: HHD 1TB
-Operating system:
-• Linux-based operating system, such as Ubuntu 22.x LTS.
-• It is important to keep the operating system up-to-date with the latest security patches.
-
-6.	Constraints
-The system will be developed using a specific technology stack (to be determined). It will also need to comply with various legal and regulatory requirements related to data privacy and security.
-7.    Glossary
-•	Customer: An individual to register, login, and manage their profiles.
-•	Manager: responsible for adding and allow users to view, modify, and cancel their bookings. It should provide features for users to print or email their booking details.
-•	Administrator: Should configuring and maintaining the Online Booking Travel System.
-•	Payment Controller System: system responsible make transaction online. 
-
-8. Appendix
-•	Use Case Diagram: Diagram illustrating the interactions between system actors (users) and the Online Booking Travel System
-• Entity-Relationship  Diagram  (ERD):  Diagram  depicting  the  relationships between various entities (e.g., customer, 
-  Administrator , booking services, Payments) in the system database.
